@@ -1,6 +1,6 @@
 BRUNO RAFFO ZELADA
 
-ASP.NET | .NET | C# | SQL |
+ASP.NET | C# | SQL |
 
 
 
