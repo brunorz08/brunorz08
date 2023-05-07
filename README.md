@@ -1,7 +1,5 @@
 BRUNO RAFFO ZELADA
 
-TECH-SKILLS
-
 ASP.NET | .NET | C# | SQL |
 
 
